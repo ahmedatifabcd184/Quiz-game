@@ -1,0 +1,4 @@
+What is 5 + 7?|A) 10|B) 11|C) 12|D) 13|C
+What is 9 * 3?|A) 18|B) 27|C) 36|D) 30|B
+What is 15 - 6?|A) 7|B) 8|C) 9|D) 10|C
+What is 100 ÷ 25?|A) 2|B) 3|C) 4|D) 5|C
